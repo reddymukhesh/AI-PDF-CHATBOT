@@ -76,6 +76,30 @@ streamlit run app.py
 * Voice assistant
 * Cloud deployment
 
+## Screenshots
+
+### Home Page
+
+[Home Page](screenshots/home.png)
+
+---
+
+### PDF Upload
+
+[PDF Upload](screenshots/pdf-upload.png)
+
+---
+
+### User Question
+
+[User Question](screenshots/user-query.png)
+
+---
+
+### AI Response
+
+[AI Response](screenshots/Ai-response.png)
+
 
 ## Author
 
