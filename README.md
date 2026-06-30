@@ -1,4 +1,4 @@
-# AI PDF Chatbot using RAG and TinyLlama
+# AI PDF Chatbot using RAG 
 
 ## Overview
 
